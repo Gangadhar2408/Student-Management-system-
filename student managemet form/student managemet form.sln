@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "student managemet form", "student managemet form\student managemet form.csproj", "{54A5685B-AB42-4E7B-986F-81F175E4337C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54A5685B-AB42-4E7B-986F-81F175E4337C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54A5685B-AB42-4E7B-986F-81F175E4337C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54A5685B-AB42-4E7B-986F-81F175E4337C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54A5685B-AB42-4E7B-986F-81F175E4337C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95CF1BA9-BAD1-4D46-AD4A-45317D86DE7D}
+	EndGlobalSection
+EndGlobal
